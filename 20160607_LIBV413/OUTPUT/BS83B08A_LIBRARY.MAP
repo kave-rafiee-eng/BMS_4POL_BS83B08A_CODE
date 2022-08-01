@@ -1,0 +1,249 @@
+
+Linker Version 8.7.7.211123
+Input Object File: C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\STARTUP1_L.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\SOFT_UART.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ
+
+Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB
+Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\v3_tabrd_mrsc.lib
+
+
+     Bank    Start     End      Length     Class    AvgIns    Name
+     00h     0000h     0003h    0004h      CODE               PROGRAM_ENTRY (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     0004h     0007h    0004h      CODE               @ex_interupt_code (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0008h     0008h    0001h      CODE               TOUCH_INT (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     0009h     0009h    0001h      CODE               LIBRARY_VERSION (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     000ch     000fh    0004h      CODE               @timer_code (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0010h     0013h    0004h      CODE               _ex_init (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0014h     0017h    0004h      CODE               TIME_BASE_INT (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     0018h     049ch    0485h      CODE               TKS_LIBRARY_CODE (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     049dh     04e4h    0048h      CODE               MAIN_PROGRAM (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     04e5h     04eah    0006h      CODE               @ROMDATA_BASE (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     04ebh     04f9h    000fh      CODE               _delay_cpu (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     04fah     054ah    0051h      CODE               _timer (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     054bh     0559h    000fh      CODE               _ex_interupt (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     055ah     0563h    000ah      CODE               _ini_main (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0564h     0569h    0006h      CODE               _USER_PROGRAM_INITIAL (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     056ah     0583h    001ah      CODE               _touch_change (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0584h     05cfh    004ch      CODE               _touch_pro (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     05d0h     0601h    0032h      CODE               _USER_PROGRAM (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0602h     0607h    0006h      CODE               _timer_ini (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     0608h     060ah    0003h      CODE               _timer_interupt_enable (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     060bh     060dh    0003h      CODE               _soft_uart_ini (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\SOFT_UART.OBJ)
+     00h     060eh     0615h    0008h      CODE               _clock_ini (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ)
+     00h     0616h     061ah    0005h      CODE               _CROM2PROM (CROM2PROM)
+     00h     0060h     00dah    007bh      DATA     0.1056    TKS_LIBRARY_DATA0 (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     00dbh     00dfh    0005h      DATA     3.6       @HCCINIT (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00e0h     00ech    000dh      DATA     1.5385    @HCCINIT0 (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00edh     00eeh    0002h      DATA     3         MAIN_DATA (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     00efh     00efh    0001h      DATA     10        @data_ra (C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB)
+     00h     00f0h     00f0h    0001h      DATA     10        @data_rb (C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB)
+     00h     00f1h     00f1h    0001h      DATA     5         @data_rc (C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB)
+     00h     00f2h     00f2h    0001h      DATA     2         @data_r10c (isr:ra~rh)
+     00h     00f3h     00f3h    0001h      DATA     2         @data_r20c (isr:ra~rh)
+     00h     00f4h     00f4h    0001h      DATA     6         @data_rb0c (isr:ra~rh)
+     00h     00f5h     00f5h    0001h      DATA     5         @data_rc0c (isr:ra~rh)
+     00h     00f6h     00f6h    0001h      DATA     2         @data_rd0c (isr:ra~rh)
+     00h     00f7h     00f7h    0001h      DATA     2         @data_re0c (isr:ra~rh)
+     00h     00f8h     00f8h    0001h      DATA     2         @data_r104 (isr:ra~rh)
+     00h     00f9h     00f9h    0001h      DATA     2         @data_r204 (isr:ra~rh)
+
+     Local Sections
+
+     Bank    Start     End      Length     Class    AvgIns    Name
+     00h     00fah     00fah    0000h      LOCAL    0         @dummy12 (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _timer (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         @dummy4 (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _ex_interupt (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _USER_PROGRAM_INITIAL (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _ini_main (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _clock_ini (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _timer_ini (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _timer_interupt_enable (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _ex_init (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _soft_uart_ini (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\SOFT_UART.OBJ)
+     00h     00feh     00feh    0000h      LOCAL    0         _USER_PROGRAM (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fbh     00fdh    0003h      LOCAL    4         _touch_pro (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00fah     00fah    0000h      LOCAL    0         _Crom2Prom (CROM2PROM)
+     00h     00fah     00fah    0001h      LOCAL    1         _touch_change (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+
+     Indepentent Local Sections
+
+     Bank    Start     End      Length     Class    AvgIns    Name
+     00h     00fah     00fdh    0004h      ILOCAL   2         _delay_cpu (C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+
+     Public Symbols Information
+     Address            Public by Name
+     0082h[3]           _ANY_KEY_PRESSF
+     0018h              _BS83B08A_LIBV413
+     008ch              _BS83B08A_LIBV413_INITIAL
+     0114h              _CHECK_KEY_WAKEUP
+     0617h              _Crom2Prom
+     0616h              _Crom2PromNext
+     006bh              _DATA_BUF
+     0082h[0]           _FORCE_CALIBRATEF
+     0485h              _GET_ENV_VALUE
+     047dh              _GET_KEY_AMOUNT
+     047fh              _GET_KEY_BITMAP
+     0478h              _GET_LIB_VER
+     0482h              _GET_RCC_VALUE
+     0488h              _GET_REF_VALUE
+     0060h              _GLOBE_VARIES
+     0077h              _KEY_DATA
+     0076h              _KEY_IO_SEL
+     009bh              _KEY_REF
+     0083h              _KEY_STATUS
+     008ch              _LIBRARY_RESET
+     04cch              _LOAD_HXT_REFERENCE
+     04cch              _LOAD_TKS_GLOBE_VARIES
+     0073h              _SAMPLE_TIMES
+     0082h[2]           _SCAN_CYCLEF
+     0074h              _STANDBY_TIME
+     0082h[5]           _TKS_250MSF
+     0082h[6]           _TKS_500MSF
+     0082h[4]           _TKS_63MSF
+     0082h[1]           _TKS_ACTIVEF
+     0082h              _TKS_FLAGA
+     0075h              _TKS_TIME_BASE
+     05d0h              _USER_PROGRAM
+     0564h              _USER_PROGRAM_INITIAL
+     060eh              _clock_ini
+     04ebh              _delay_cpu
+     0010h              _ex_init
+     054bh              _ex_interupt
+     00dbh              _i
+     055ah              _ini_main
+     00dfh              _level
+     00dch              _level_rx
+     00deh              _rx_start
+     060bh              _soft_uart_ini
+     00ech              _soft_usart_RX
+     00ebh              _soft_usart_TX
+     00e1h              _temp_touch
+     04fah              _timer
+     00e9h              _timer_delay
+     0602h              _timer_ini
+     0608h              _timer_interupt_enable
+     00e0h              _touch
+     056ah              _touch_change
+     0584h              _touch_pro
+     00ddh              _tx_start
+     00f8h              r104
+     00f2h              r10c
+     00f9h              r204
+     00f3h              r20c
+     00efh              ra
+     00f0h              rb
+     00f4h              rb0c
+     00f1h              rc
+     00f5h              rc0c
+     00f6h              rd0c
+     00f7h              re0c
+
+     Address            Public by Value
+     0010h              _ex_init
+     0018h              _BS83B08A_LIBV413
+     0060h              _GLOBE_VARIES
+     006bh              _DATA_BUF
+     0073h              _SAMPLE_TIMES
+     0074h              _STANDBY_TIME
+     0075h              _TKS_TIME_BASE
+     0076h              _KEY_IO_SEL
+     0077h              _KEY_DATA
+     0082h              _TKS_FLAGA
+     0083h              _KEY_STATUS
+     008ch              _LIBRARY_RESET
+     008ch              _BS83B08A_LIBV413_INITIAL
+     009bh              _KEY_REF
+     00dbh              _i
+     00dch              _level_rx
+     00ddh              _tx_start
+     00deh              _rx_start
+     00dfh              _level
+     00e0h              _touch
+     00e1h              _temp_touch
+     00e9h              _timer_delay
+     00ebh              _soft_usart_TX
+     00ech              _soft_usart_RX
+     00efh              ra
+     00f0h              rb
+     00f1h              rc
+     00f2h              r10c
+     00f3h              r20c
+     00f4h              rb0c
+     00f5h              rc0c
+     00f6h              rd0c
+     00f7h              re0c
+     00f8h              r104
+     00f9h              r204
+     0114h              _CHECK_KEY_WAKEUP
+     0082h[0]           _FORCE_CALIBRATEF
+     0082h[1]           _TKS_ACTIVEF
+     0082h[2]           _SCAN_CYCLEF
+     0082h[3]           _ANY_KEY_PRESSF
+     0082h[4]           _TKS_63MSF
+     0082h[5]           _TKS_250MSF
+     0082h[6]           _TKS_500MSF
+     0478h              _GET_LIB_VER
+     047dh              _GET_KEY_AMOUNT
+     047fh              _GET_KEY_BITMAP
+     0482h              _GET_RCC_VALUE
+     0485h              _GET_ENV_VALUE
+     0488h              _GET_REF_VALUE
+     04cch              _LOAD_TKS_GLOBE_VARIES
+     04cch              _LOAD_HXT_REFERENCE
+     04ebh              _delay_cpu
+     04fah              _timer
+     054bh              _ex_interupt
+     055ah              _ini_main
+     0564h              _USER_PROGRAM_INITIAL
+     056ah              _touch_change
+     0584h              _touch_pro
+     05d0h              _USER_PROGRAM
+     0602h              _timer_ini
+     0608h              _timer_interupt_enable
+     060bh              _soft_uart_ini
+     060eh              _clock_ini
+     0616h              _Crom2PromNext
+     0617h              _Crom2Prom
+
+
+ROM Usage Statistics
+     Size      Used     Percentage
+     0800h     0619h    76%
+
+RAM Usage Statistics
+    Bank      Size      Used     Percentage
+     00h       00a0h     009eh    98%
+     Total     00a0h     009eh    98%
+
+Use Stack Count
+_timer: 0
+_ex_interupt: 0
+_USER_PROGRAM_INITIAL: 2
+_USER_PROGRAM: 2
+
+Call Tree
+    @dummy12
+        _timer (0)
+    @dummy4
+        _ex_interupt (0)
+    _USER_PROGRAM_INITIAL
+        _ini_main (0)
+            _clock_ini (1)
+        _timer_ini (0)
+        _timer_interupt_enable (0)
+        _ex_init (0)
+        _soft_uart_ini (0)
+    _USER_PROGRAM
+        _touch_pro (0)
+            _Crom2Prom (1)
+            _touch_change (1)
+
+HLINK: Program entry point at section 'PROGRAM_ENTRY' (address 0) of file 'C:\Users\barby\Desktop\Company_work\behbood_chehelsotoon\BMS_4POL_BS83B08A_CODE\BMS_4POL_BS83B08A_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ'
+
+Total 0 error(s), Total 0 Warning(s)
