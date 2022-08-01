@@ -1,15 +1,18 @@
 #ifndef _STRUCT_H
 #define _STRUCT_H
 
-	struct ST_soft_usart_RX 
+	struct ST_jaroo
 	{
-		volatile unsigned char DATA ; 
-				
+		unsigned char LEVEL ; 
+		unsigned char SOFT ; 
+		unsigned char POWER ; 
+		unsigned char SOFT_SLOW ; 		
 	};
 
-	struct ST_soft_usart_TX 
+	struct ST_touch
 	{
-		volatile unsigned char DATA ; 
+		unsigned char TEMP[3] ; 
 				
-	};	
+	};
+		
 #endif

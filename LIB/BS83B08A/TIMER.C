@@ -8,7 +8,7 @@ void timer_ini(){
 0: fSYS
 1: fSUB	*/
 
-	_tpsc0=0;_tpsc1=1;_tpsc2=1;	
+	_tpsc0=1;_tpsc1=1;_tpsc2=1;	
 /*	TPSC2~TPSC0: Timer prescaler rate selection
 Timer internal clock=
 000: fTP

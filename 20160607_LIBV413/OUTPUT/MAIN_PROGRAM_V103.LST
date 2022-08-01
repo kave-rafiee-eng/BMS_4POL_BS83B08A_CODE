@@ -2345,7 +2345,7 @@
  240  0035                              ;--------------------------
  241  0035                              ;-SET TOUCH OR IO ATTRIBUTE
  242  0035                              ;--------------------------
- 243  0035  0F99                        MOV     A,IO_TOUCH_ATTR&0FFH
+ 243  0035  0FA0                        MOV     A,IO_TOUCH_ATTR&0FFH
  244  0036  0080     E                  MOV     _KEY_IO_SEL[0],A
  245  0037                              ;-IF OVER 2 TOUCH IP (8~16KEY)
  246  0037                              if      TouchKeyAmount > 8
